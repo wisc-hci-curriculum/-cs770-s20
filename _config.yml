@@ -1,7 +1,7 @@
 # Setup
 title: CS 770
 tagline: Spring 2020
-#url: "https://wisc-hci-curriculum.github.io/cs770-s20/"
+url: "https://wisc-hci-curriculum.github.io/cs770-s20/"
 paginate: 1
 baseurl: "https://wisc-hci-curriculum.github.io/cs770-s20"
 permalink: pretty
