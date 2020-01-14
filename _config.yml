@@ -7,7 +7,6 @@ baseurl: "https://wisc-hci-curriculum.github.io/cs770-s20"
 permalink: pretty
 
 permalink:           pretty
-relative_permalinks: true
 
 # Assets
 #
