@@ -25,3 +25,5 @@ remote_theme: bulma-clean-theme
 # version:             1.0.0
 # github:
 #   repo:              https://github.com/wisc-hci-curriculum/cs770-s20
+
+theme: jekyll-theme-minimal
