@@ -37,6 +37,6 @@ author:
   url: http://pages.cs.wisc.edu/~bilge/
 
 # Custom vars
-# version: 3.0.0
-# github:
-#  repo: https://github.com/wisc-hci-curriculum/cs770-s20
+version: 3.0.0
+github:
+ repo: https://github.com/wisc-hci-curriculum/cs770-s20
