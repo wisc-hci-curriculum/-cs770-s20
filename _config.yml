@@ -1,5 +1,7 @@
 theme: minima
 title: "Human-Computer Interaction"
+description: "This is description."
+subtitle: "Subtitle?"
 header_pages:
   - index.md
   - content.md
