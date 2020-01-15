@@ -1,6 +1,7 @@
 theme: minima
 title: "Human-Computer Interaction"
-description: "This is description."
+author: "Spring 2020, Professor Mutlu, Wisconsin CS"
+description: "CS/Psych/EdPsych-770 Human-Computer Interaction introduces graduate students in CS, psychology, and educational psychology to research topics and research methods in human-computer interaction (HCI)."
 subtitle: "Subtitle?"
 header_pages:
   - index.md
