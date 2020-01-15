@@ -1,2 +1,5 @@
 theme: minima
-title: "CS/Psych/EdPsych-770 Human-Computer Interaction"
+title: "Human-Computer Interaction"
+header_pages:
+  - index.md
+  - content.md
