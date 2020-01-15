@@ -2,5 +2,5 @@ theme: jekyll-themes-minimal
 title: "Human-Computer Interaction"
 description: "Spring 2020, Professor Mutlu, Wisconsin CS"
 header_pages:
-  - schedule.md
+  - index.md
   - syllabus.md
