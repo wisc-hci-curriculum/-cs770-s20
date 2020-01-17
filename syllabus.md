@@ -1,5 +1,6 @@
 ---
 title: Syllabus
+nav_order: 3
 ---
 
 The most-up-to-date syllabus in [PDF](syllabus/Syllabus-CS-770-S20.pdf) format

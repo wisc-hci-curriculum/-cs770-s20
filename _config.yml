@@ -6,5 +6,7 @@ author: Professor Mutlu
 description: CS/Psych/EdPsych-770 Human-Computer Interaction, Spring 2020, Professor Mutlu, University of Wisconsin--Madison
 search_enabled: true
 header_pages:
+
   - index.md
+  - schedule.md
   - syllabus.md
