@@ -1,6 +1,8 @@
-theme: minima
-title: "Human-Computer Interaction"
-description: "Spring 2020, Professor Mutlu, Wisconsin CS"
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "nil"
+title: Human-Computer Interaction
+description: CS/Psych/EdPsych-770 Human-Computer Interaction, Spring 2020, Professor Bilge Mutlu, University of Wisconsin--Madison
+search_enabled: true
 header_pages:
   - index.md
   - syllabus.md
