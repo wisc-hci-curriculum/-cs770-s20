@@ -15,12 +15,8 @@ The course consists of three modules: (1) **seminar**, which reviews major resea
 
 ### Course Resources
 
-<span class="fs-4">[Course Canvas Page](https://canvas.wisc.edu/courses/192620){: .btn }</span>
+<span class="fs-2">[Course Canvas Page](https://canvas.wisc.edu/courses/192620){: .btn }</span>
 
-<span class="fs-4">[Course Piazza Page](http://piazza.com/wisc/spring2020/cspsychedpsych770/home){: .btn }</span>
+<span class="fs-2"> Course Piazza Page](http://piazza.com/wisc/spring2020/cspsychedpsych770/home){: .btn }</span>
 
-<span class="fs-4">[Contact Instructor/TA](mailto:hci-class@cs.wisc.edu){: .btn }</span>
-
-<span class="fs-4">[Course Textbook](https://wisconsin-madison.alma.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=14650690810002122&institutionId=2122&customerId=2120){: .btn }</span>
-
-![32765957. sx318 ](figures/32765957._SX318_.jpg)
+<span class="fs-2">[Contact Instructor/TA](mailto:hci-class@cs.wisc.edu){: .btn }</span> <span class="fs-2">[Course Textbook](https://wisconsin-madison.alma.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=14650690810002122&institutionId=2122&customerId=2120){: .btn }</span>
