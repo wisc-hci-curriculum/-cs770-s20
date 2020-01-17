@@ -4,22 +4,22 @@ title: Schedule
 
 Links to lecture slides, readings, assignments will be posted in the table below by the time of the lecture or the release of the assignment.
 
-|							| **Date** | **Seminar**                   | **Date** | **Methods**               | **Assignments** | **Project**        |
-| ---------- | -------- | ----------------------------- | -------- | ------------------------- | --------------- | ------------------ |
-|            |          | *Mondays*                     |          | *Wednesdays*              | *Due Fridays*   | *Due Mondays*      |
-| **W01**    | 01/20    | *No class*?<br />01/20  | 01/22    | Course Introduction       |                 |                    |
-| **W02**    | 01/27    | History of HCI                | 01/29    | Introduction              |                 |                    |
-| **W03**    | 02/03    | Research Frameworks           | 02/05    | Choosing Methods          |                 | Topic selection    |
-| **W04**    | 02/10    | User Modeling                 | 02/12    | Ethnography               |                 |                    |
-| **W05**    | 02/17    | Artificial Agents             | 02/19    | Qualitative data analysis | Assignment 1.A  | Lit. survey, RQ    |
-| **W06**    | 02/24    | CMC                           | 02/26    | Experimental design I     | Assignment 1.B  |                    |
-| **W07**    | 03/02    | CSCW                          | 03/04    | Experimental design II    |                 |                    |
-| **W08**    | 03/09    | Crowdsourcing                 | 03/11    | Measurement I             | Assignment 2.A  | Method             |
-| **W09** | 03/16    | *Spring break*                | 03/18    | *Spring break*            |                 |                    |
-| **W10**    | 03/23    | Educational Technology        | 03/25    | Measurement II            |                 |                    |
-| **W11**    | 03/30    | Mobile & Tangible  Computing  | 04/01    | Measurement III           |                 |                    |
-| **W12**    | 04/06    | Physiological Computing       | 04/08    | Statistics I              | Assignment 2.B  |                    |
-| **W13**    | 04/13    | Privacy                       | 04/15    | Statistics II             |                 | Data collection    |
-| **W14**    | 04/20    | Programming & Authoring Tools | 04/22    | Statistics III            | Assignment 2.C  |                    |
-| **W15**    | 04/27    | Assistive Tech &Accessibility | 04/29    | Reporting                 |                 | Analysis & Results |
-|            |          |                               |          |                           |                 | Final paper        |
+|         | **Seminar**                                | **Methods**                           | **Assignments**            | **Project**                       |
+| ------- | ------------------------------------------ | ------------------------------------- | -------------------------- | --------------------------------- |
+|         | *Mondays*                                  | *Wednesdays*                          | *Due Fridays*              | *Due Mondays*                     |
+| **W01** | *No class* <br />01/20                     | Course Introduction <br />01/22       |                            |                                   |
+| **W02** | History of HCI <br />01/27                 | Introduction <br />01/29              |                            |                                   |
+| **W03** | Research Frameworks <br />02/03            | Choosing Methods <br />02/05          |                            | Topic selection <br />02/03       |
+| **W04** | User Modeling <br />02/10                  | Ethnography <br />02/12               |                            |                                   |
+| **W05** | Artificial Agents <br />02/17              | Qualitative data analysis <br />02/19 | Assignment 1.A <br />02/21 | Literature survey, RQ <br />02/17 |
+| **W06** | CMC <br />02/24                            | Experimental design I <br />02/26     | Assignment 1.B <br />02/28 |                                   |
+| **W07** | CSCW <br />03/02                           | Experimental design II <br />03/04    |                            |                                   |
+| **W08** | Crowdsourcing <br />03/09                  | Measurement I <br />03/11             | Assignment 2.A <br />03/13 | Method <br />03/09                |
+| **W09** | *Spring break <br />03/16*                 | *Spring break* <br />03/18            |                            |                                   |
+| **W10** | Educational Technology <br />03/23         | Measurement II <br />03/25            |                            |                                   |
+| **W11** | Mobile & Tangible Computing <br />03/30    | Measurement III <br />04/01           |                            |                                   |
+| **W12** | Physiological Computing <br />04/06        | Statistics I <br />04/08              | Assignment 2.B <br />04/10 |                                   |
+| **W13** | Privacy <br />04/13                        | Statistics II <br />04/15             |                            | Data collection <br />04/13       |
+| **W14** | Programming & Authoring Tools <br />04/20  | Statistics III <br />04/22            | Assignment 2.C <br />04/24 |                                   |
+| **W15** | Assistive Tech & Accessibility <br />04/27 | Reporting <br />04/29                 |                            | Analysis & Results <br />04/27    |
+|         |                                            |                                       |                            | Final paper <br />05/04           |
