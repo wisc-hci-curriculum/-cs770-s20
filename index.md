@@ -7,7 +7,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
 |							| **Date** | **Seminar**                   | **Date** | **Methods**               | **Assignments** | **Project**        |
 | ---------- | -------- | ----------------------------- | -------- | ------------------------- | --------------- | ------------------ |
 |            |          | *Mondays*                     |          | *Wednesdays*              | *Due Fridays*   | *Due Mondays*      |
-| **W01**    | 01/20    | *No class*                    | 01/22    | Course Introduction       |                 |                    |
+| **W01**    | 01/20    | *No class*?<br />01/20  | 01/22    | Course Introduction       |                 |                    |
 | **W02**    | 01/27    | History of HCI                | 01/29    | Introduction              |                 |                    |
 | **W03**    | 02/03    | Research Frameworks           | 02/05    | Choosing Methods          |                 | Topic selection    |
 | **W04**    | 02/10    | User Modeling                 | 02/12    | Ethnography               |                 |                    |
