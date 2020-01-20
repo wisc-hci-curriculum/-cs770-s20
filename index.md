@@ -16,3 +16,9 @@ The course consists of three modules: (1) **seminar**, which reviews major resea
 ### Course Resources
 
 [Course Canvas Page](https://canvas.wisc.edu/courses/192620){: .btn .btn-blue } [Course Piazza Page](http://piazza.com/wisc/spring2020/cspsychedpsych770/home){: .btn .btn-blue }[Contact Instructor/TA](mailto:hci-class@cs.wisc.edu){: .btn .btn-blue } [Course Textbook](https://wisconsin-madison.alma.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=14650690810002122&institutionId=2122&customerId=2120){: .btn .btn-blue }
+
+
+
+**Instructor office hours:** MW 2:15-2:45 pm, Ed Sciences 228
+
+**TA office hours:** Tue 4:30-5:30 pm, Thu 1:00-2:00 pm, CS 1308 
