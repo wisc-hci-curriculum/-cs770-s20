@@ -5,12 +5,13 @@ nav_order: 2
 
 Links to lecture slides, readings, assignments will be posted in the table below by the time of the lecture or the release of the assignment.
 
+
 | **Seminar** | **Methods** | **Assignments** | **Project** |
 | ------------------------------------------------------------ | ------------------------------------------------ | --------------------------------------- | --------------------------------------------- |
 | *Mondays* | *Wednesdays* | *Due Fridays* | *Due Mondays* |
 | January 20<br />*No class* | January 22<br /><span class="fs-3">[Course Introduction](){: .btn }</span> | | |
 | January 27<br /><span class="fs-3">[History of HCI](){: .btn }</span><br />[R1](){: .label }[R2](){: .label }[R3](){: .label } | January 29<br /><span class="fs-3">[Introduction](){: .btn }</span>        |                                         |                                               |
-| February 03<br /><span class="fs-3">[Research Frameworks](){: .btn }</span>                  | February 05<br /><span class="fs-3">[Choosing Methods](){: .btn }</span>   | February 21<br /><span class="fs-3">[Assignment 0](https://canvas.wisc.edu/courses/192620/assignments/747906){: .btn .btn-blue }</span> | February 03<br /><span class="fs-3">[Topic selection](){: .btn }</span> |
+| February 03<br /><span class="fs-3">[Research Frameworks](){: .btn }</span>                  | February 05<br /><span class="fs-3">[Choosing Methods](){: .btn }</span>   | February 21<br /><span class="fs-3">[Assignment 0](https://canvas.wisc.edu/courses/192620/assignments/747906){: .btn .btn-purple }</span> | February 03<br /><span class="fs-3">[Topic selection](){: .btn }</span> |
 | February 10<br /><span class="fs-3">[User Modeling](){: .btn }</span>                  | February 12<br /><span class="fs-3">[Ethnography](){: .btn }</span>        |                                         |                                               |
 | February 17<br /><span class="fs-3">[Artificial Agents](){: .btn }</span>                    | February 19<br /><span class="fs-3">[Qualitative analysis](){: .btn }</span>     | February 21<br /><span class="fs-3">[Assignment 1.A](https://canvas.wisc.edu/courses/192620/assignments/747907){: .btn .btn-blue }</span> | February 17<br /><span class="fs-3">[Literature survey](){: .btn }</span>     |
 | February 24<br /><span class="fs-3">[CMC](){: .btn }</span>                                  | February 26<br /><span class="fs-3">[Experimental design I](){: .btn }</span>    | February 28<br /><span class="fs-3">[Assignment 1.B](https://canvas.wisc.edu/courses/192620/assignments/747947){: .btn .btn-blue }</span> |                                               |
