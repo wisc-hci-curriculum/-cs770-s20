@@ -54,7 +54,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3"><a class="btn" ref="">Choosing Methods</a></span>
       </td>
       <td>February 21<br />
-        <span class="fs-3"><a class="btn btn-purple" href="https://canvas.wisc.edu/courses/192620/assignments/747906">Assignment 0</a>{: .btn .btn-purple }</span>
+        <span class="fs-3"><a class="btn btn-purple" href="https://canvas.wisc.edu/courses/192620/assignments/747906">Assignment 0</a></span>
       </td>
       <td>February 03<br />
         <span class="fs-3"><a class="btn" href="">Topic selection</a></span>
