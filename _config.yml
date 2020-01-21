@@ -5,7 +5,7 @@ subtitle: "CS/Psych/EdPsych-770 Human-Computer Interaction"
 author: Professor Mutlu
 description: "CS/Psych/EdPsych-770 Human-Computer Interaction, Spring 2020, Professor Mutlu, University of Wisconsin--Madison"
 search_enabled: true
-footer_content: "Copyright 2020 Professor Bilge Mutlu"
+footer_content: "Copyright 2020 &copy Professor Bilge Mutlu"
 header_pages:
   - index.md
   - schedule.md
