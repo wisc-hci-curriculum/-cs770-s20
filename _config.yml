@@ -1,15 +1,3 @@
-# remote_theme: pmarsceill/just-the-docs
-# color_scheme: "nil"
-# title: "CS-770 HCI"
-# subtitle: "CS/Psych/EdPsych-770 Human-Computer Interaction"
-# author: Professor Mutlu
-# description: "CS/Psych/EdPsych-770 Human-Computer Interaction, Spring 2020, Professor Mutlu, University of Wisconsin--Madison"
-# search_enabled: true
-
-# header_pages:
-#   - index.md
-#   - schedule.md
-#   - syllabus.md
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
 title: CS-770 HCI
