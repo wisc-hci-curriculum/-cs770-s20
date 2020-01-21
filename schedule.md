@@ -29,9 +29,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>January 27<br />
-        <span class="fs-3"><
-          a class="btn" href="">History of HCI</a>
-        </span><br />
+        <span class="fs-3"><a class="btn" href="">History of HCI</a></span><br />
         <a class="label" href="">R1</a>
         <a class="label" href="">R2</a>
         <a class="label" href="">R3</a>
