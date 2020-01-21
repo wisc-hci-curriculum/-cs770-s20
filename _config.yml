@@ -12,6 +12,7 @@
 #   - syllabus.md
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
-title: CS-639 HCI
+title: CS-770 HCI
+author: Professor Mutlu
 description: Content
 search_enabled: true
