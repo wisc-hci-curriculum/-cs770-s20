@@ -5,6 +5,206 @@ nav_order: 2
 
 Links to lecture slides, readings, assignments will be posted in the table below by the time of the lecture or the release of the assignment.
 
+<table>
+  <thead>
+    <tr>
+      <th><strong>Seminar</strong></th>
+      <th><strong>Methods</strong></th>
+      <th><strong>Assignments</strong></th>
+      <th><strong>Project</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><em>Mondays</em></td>
+      <td><em>Wednesdays</em></td>
+      <td><em>Due Fridays</em></td>
+      <td><em>Due Mondays</em></td>
+    </tr>
+    <tr>
+      <td>January 20<br /><em>No class</em></td>
+      <td>January 22<br /><span class="fs-3"><a href="">Course Introduction</a></span></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>January 27<br />
+        <span class="fs-3"><
+          a class="btn" href="">History of HCI</a>
+        </span><br />
+        <a class="label" href="">R1</a>
+        <a class="label" href="">R2</a>
+        <a class="label" href="">R3</a>
+      </td>
+      <td>January 29<br />
+        <span class="fs-3">
+          <a class="btn" href="">Introduction</a>
+        </span>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>February 03<br />
+        <span class="fs-3">
+          <a href="">Research Frameworks</a>
+        </span>
+      </td>
+      <td>February 05<br />
+        <span class="fs-3"><a class="btn" ref="">Choosing Methods</a></span>
+      </td>
+      <td>February 21<br />
+        <span class="fs-3"><a class="btn btn-purple" href="https://canvas.wisc.edu/courses/192620/assignments/747906">Assignment 0</a>{: .btn .btn-purple }</span>
+      </td>
+      <td>February 03<br />
+        <span class="fs-3"><a class="btn" href="">Topic selection</a></span>
+      </td>
+    </tr>
+    <tr>
+      <td>February 10<br />
+        <span class="fs-3"><a class="btn" href="">User Modeling</a></span>
+      </td>
+      <td>February 12<br />
+        <span class="fs-3"><a class="btn" href="">Ethnography</a></span>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>February 17<br />
+        <span class="fs-3"><a class="btn" href="">Artificial Agents</a></span>
+      </td>
+      <td>February 19<br />
+        <span class="fs-3"><a class="btn" href="">Qualitative analysis</a></span>
+      </td>
+      <td>February 21<br />
+        <span class="fs-3"><a class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747907">Assignment 1.A</a></span>
+      </td>
+      <td>February 17<br />
+        <span class="fs-3"><a class="btn" href="">Literature survey</a></span>
+      </td>
+    </tr>
+    <tr>
+      <td>February 24<br />
+        <span class="fs-3"><a class="btn" href="">CMC</a></span>
+      </td>
+      <td>February 26<br />
+        <span class="fs-3"><a class="btn" href="">Experimental design I</a></span>
+      </td>
+      <td>February 28<br />
+        <span class="fs-3"><a class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747947">Assignment 1.B</a></span>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>March 02<br />
+        <span class="fs-3"><a class="btn" href="">CSCW</a></span>
+      </td>
+      <td>March 04<br />
+        <span class="fs-3"><a class="btn" href="">Experimental design II</a></span>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>March 09<br />
+        <span class="fs-3"><a class="btn" href="">Crowdsourcing</a></span>
+      </td>
+      <td>March 11<br />
+        <span class="fs-3"><a class="btn" href="">Measurement I</a></span>
+      </td>
+      <td>March 13<br />
+        <span class="fs-3"><a class="btn" href="">Assignment 2.A</a></span>
+      </td>
+      <td>March 09<br />
+        <span class="fs-3"><a class="btn" href="">Method</a></span>
+      </td>
+    </tr>
+    <tr>
+      <td>March 16<br /><em>Spring break</em></td>
+      <td>March 18<br /><em>Spring break</em></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>March 23<br />
+        <span class="fs-3"><a class="btn" href="">Educational Technology</a></span>
+      </td>
+      <td>March 25<br />
+        <span class="fs-3"><a class="btn" href="">Measurement II</a></span>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>March 30<br />
+        <span class="fs-3"><a class="btn" href="">Mobile/Tangible</a></span>
+      </td>
+      <td>April 01<br />
+        <span class="fs-3"><a class="btn" href="">Measurement III</a></span>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>April 06<br />
+        <span class="fs-3"><a class="btn" href="">Physiological Comp.</a></span>
+      </td>
+      <td>April 08<br />
+        <span class="fs-3"><a class="btn" href="">Statistics I</a></span>
+      </td>
+      <td>April 10<br />
+        <span class="fs-3"><a class="btn" href="">Assignment 2.B</a></span>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>April 13<br />
+        <span class="fs-3"><a class="btn" href="">Privacy</a></span>
+      </td>
+      <td>April 15<br />
+        <span class="fs-3"><a class="btn" href="">Statistics II</a></span>
+      </td>
+      <td></td>
+      <td>April 13<br />
+        <span class="fs-3"><a class="btn" href="">Data collection</a></span>
+      </td>
+    </tr>
+    <tr>
+      <td>April 20<br />
+        <span class="fs-3"><a class="btn" href="">Authoring Tools</a></span>
+      </td>
+      <td>April 22<br />
+        <span class="fs-3"><a class="btn" href="">Statistics III</a></span>
+      </td>
+      <td>April 24<br />
+        <span class="fs-3"><a class="btn" href="">Assignment 2.C</a></span>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>April 27<br />
+        <span class="fs-3"><a class="btn" href="">Accessibility</a></span>
+      </td>
+      <td>April 29<br />
+        <span class="fs-3"><a class="btn" href="">Reporting</a></span>
+      </td>
+      <td></td>
+      <td>April 27<br />
+        <span class="fs-3"><a class="btn" href="">Analysis/Results</a></span>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>May 04<br />
+        <span class="fs-3"><a class="btn" href="">Final paper</a></span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 | **Seminar** | **Methods** | **Assignments** | **Project** |
 | ------------------------------------------------------------ | ------------------------------------------------ | --------------------------------------- | --------------------------------------------- |
