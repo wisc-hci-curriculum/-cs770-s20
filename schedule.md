@@ -3,7 +3,7 @@ title: Schedule
 nav_order: 2
 ---
 
-Links to lecture slides, readings, assignments will be posted in the table below by the time of the lecture or the release of the assignment.
+Links to lecture slides, readings, assignments will be posted in the table below by the time of the lecture or the release of the assignment.  <a class="label label-blue" >R</a> links to readings for that day; <a class="label label-yellow">D</a> links to Canvas discussion forum.
 
 <table>
   <thead>
@@ -23,20 +23,20 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>January 20<br /><em>No class</em></td>
-      <td>January 22<br /><span class="fs-3"><a href="">Course Introduction</a></span></td>
+      <td>January 22<br /><span class="fs-3"><a class="btn btn-purple" href="">Course Introduction</a></span></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>January 27<br />
         <span class="fs-3"><a class="btn" href="">History of HCI</a></span><br />
-        <a class="label" href="">R1</a>
-        <a class="label" href="">R2</a>
-        <a class="label" href="">R3</a>
+        <a class="label label-blue" href="http://research.microsoft.com/en-us/um/people/jgrudin/publications/history/HCIhandbook3rd.pdf">R</a>
+        <a class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550135">D</a>
       </td>
       <td>January 29<br />
         <span class="fs-3">
           <a class="btn" href="">Introduction</a>
+          <a class="label label-blue" href="https://doi.org/10.1016/B978-0-12-805390-4.00001-7">R</a>
         </span>
       </td>
       <td></td>
@@ -51,8 +51,8 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>February 05<br />
         <span class="fs-3"><a class="btn" ref="">Choosing Methods</a></span>
       </td>
-      <td>February 21<br />
-        <span class="fs-3"><a class="btn btn-purple" href="https://canvas.wisc.edu/courses/192620/assignments/747906">Assignment 0</a></span>
+      <td>February 07<br />
+        <span class="fs-3"><a class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747906">Assignment 0</a></span>
       </td>
       <td>February 03<br />
         <span class="fs-3"><a class="btn" href="">Topic selection</a></span>
