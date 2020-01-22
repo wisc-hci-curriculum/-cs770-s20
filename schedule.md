@@ -35,7 +35,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       </td>
       <td>January 29<br />
         <span class="fs-3">
-          <a class="btn" href="">Introduction</a>
+          <a class="btn" href="">Introduction</a><br />
           <a class="label label-blue" href="https://doi.org/10.1016/B978-0-12-805390-4.00001-7">R</a>
         </span>
       </td>
@@ -202,24 +202,3 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
   </tbody>
 </table>
-
-
-| **Seminar** | **Methods** | **Assignments** | **Project** |
-| ------------------------------------------------------------ | ------------------------------------------------ | --------------------------------------- | --------------------------------------------- |
-| *Mondays* | *Wednesdays* | *Due Fridays* | *Due Mondays* |
-| January 20<br />*No class* | January 22<br /><span class="fs-3">[Course Introduction](){: .btn }</span> | | |
-| January 27<br /><span class="fs-3">[History of HCI](){: .btn }</span><br />[R1](){: .label }[R2](){: .label }[R3](){: .label } | January 29<br /><span class="fs-3">[Introduction](){: .btn }</span>        |                                         |                                               |
-| February 03<br /><span class="fs-3">[Research Frameworks](){: .btn }</span>                  | February 05<br /><span class="fs-3">[Choosing Methods](){: .btn }</span>   | February 21<br /><span class="fs-3">[Assignment 0](https://canvas.wisc.edu/courses/192620/assignments/747906){: .btn .btn-purple }</span> | February 03<br /><span class="fs-3">[Topic selection](){: .btn }</span> |
-| February 10<br /><span class="fs-3">[User Modeling](){: .btn }</span>                  | February 12<br /><span class="fs-3">[Ethnography](){: .btn }</span>        |                                         |                                               |
-| February 17<br /><span class="fs-3">[Artificial Agents](){: .btn }</span>                    | February 19<br /><span class="fs-3">[Qualitative analysis](){: .btn }</span>     | February 21<br /><span class="fs-3">[Assignment 1.A](https://canvas.wisc.edu/courses/192620/assignments/747907){: .btn .btn-blue }</span> | February 17<br /><span class="fs-3">[Literature survey](){: .btn }</span>     |
-| February 24<br /><span class="fs-3">[CMC](){: .btn }</span>                                  | February 26<br /><span class="fs-3">[Experimental design I](){: .btn }</span>    | February 28<br /><span class="fs-3">[Assignment 1.B](https://canvas.wisc.edu/courses/192620/assignments/747947){: .btn .btn-blue }</span> |                                               |
-| March 02<br /><span class="fs-3">[CSCW](){: .btn }</span>                                    | March 04<br /><span class="fs-3">[Experimental design II](){: .btn }</span>      |                                         |                                               |
-| March 09<br /><span class="fs-3">[Crowdsourcing](){: .btn }</span>                           | March 11<br /><span class="fs-3">[Measurement I](){: .btn }</span>               | March 13<br /><span class="fs-3">[Assignment 2.A](){: .btn }</span>     | March 09<br /><span class="fs-3">[Method](){: .btn }</span>                   |
-| March 16<br />*Spring break*                                      | March 18<br />*Spring break*                           |                                         |                                               |
-| March 23<br /><span class="fs-3">[Educational Technology](){: .btn }</span>                  | March 25<br /><span class="fs-3">[Measurement II](){: .btn }</span>              |                                         |                                               |
-| March 30<br /><span class="fs-3">[Mobile/Tangible](){: .btn }</span>                         | April 01<br /><span class="fs-3">[Measurement III](){: .btn }</span>             |                                         |                                               |
-| April 06<br /><span class="fs-3">[Physiological Comp.](){: .btn }</span>                 | April 08<br /><span class="fs-3">[Statistics I](){: .btn }</span>                | April 10<br /><span class="fs-3">[Assignment 2.B](){: .btn }</span>     |                                               |
-| April 13<br /><span class="fs-3">[Privacy](){: .btn }</span>                                 | April 15<br /><span class="fs-3">[Statistics II](){: .btn }</span>               |                                         | April 13<br /><span class="fs-3">[Data collection](){: .btn }</span>          |
-| April 20<br /><span class="fs-3">[Authoring Tools](){: .btn }</span>                | April 22<br /><span class="fs-3">[Statistics III](){: .btn }</span>              | April 24<br /><span class="fs-3">[Assignment 2.C](){: .btn }</span>     |                                               |
-| April 27<br /><span class="fs-3">[Accessibility](){: .btn }</span>            | April 29<br /><span class="fs-3">[Reporting](){: .btn }</span>                   |                                         | April 27<br /><span class="fs-3">[Analysis/Results](){: .btn }</span>       |
-|                                                              |                                                  |                                         | May 04<br /><span class="fs-3">[Final paper](){: .btn }</span>                |
