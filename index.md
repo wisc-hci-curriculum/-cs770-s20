@@ -35,6 +35,14 @@ The course consists of three modules: (1) **seminar**, which reviews major resea
 <table>
 <tr>
 	<td>
+		<a class="label" href="">Course location</a>
+	</td>
+	<td>
+		MW 1:00-2:15 pm, Ed Sciences 228
+	</td>
+</tr>
+<tr>
+	<td>
 		<a class="label" href="">Instructor office hours</a>
 	</td>
 	<td>
