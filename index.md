@@ -35,7 +35,7 @@ The course consists of three modules: (1) **seminar**, which reviews major resea
 <table>
 <tr>
 	<td>
-		Instructor office hours
+		<a class="label" href="">Instructor office hours</a>
 	</td>
 	<td>
 		MW 2:15-2:45 pm, Ed Sciences 228
@@ -43,7 +43,7 @@ The course consists of three modules: (1) **seminar**, which reviews major resea
 </tr>
 <tr>
 	<td>
-		TA office hours
+		<a class="label" href="">TA office hours</a>
 	</td>
 	<td>
 		Tue 4:30-5:30 pm, Thu 1:00-2:00 pm, CS 1308 
