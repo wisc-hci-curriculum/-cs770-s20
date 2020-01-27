@@ -30,6 +30,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td>January 27<br />
         <span class="fs-3"><a target="_blank" class="btn" href="">History of HCI</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w02-project-intro.pdf">Project Introduction</a></span><br />
         <a target="_blank" class="label label-blue" href="http://research.microsoft.com/en-us/um/people/jgrudin/publications/history/HCIhandbook3rd.pdf">R</a>
         <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550135">D</a>
       </td>
