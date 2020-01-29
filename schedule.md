@@ -52,7 +52,9 @@ Links to lecture slides, readings, assignments will be posted in the table below
         </span>
       </td>
       <td>February 05<br />
-        <span class="fs-3"><a target="_blank" class="btn" ref="">Choosing Methods</a></span>
+        <span class="fs-3"><a target="_blank" class="btn" ref="">Choosing Methods</a></span><br />
+        <a target="_blank" class="label label-blue" href="https://drive.google.com/file/d/1-bxZwbhy0nG3Tgxt1-01Dy7eqagjwqqC/view?usp=sharing">R1</a><br />
+        <a target="_blank" class="label label-blue" href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.469.5594&rep=rep1&type=pdf">R2</a>
       </td>
       <td>February 07<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747906">Assignment 0</a></span>
