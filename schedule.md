@@ -47,6 +47,8 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>February 03<br />
         <span class="fs-3">
           <a target="_blank" href="">Research Frameworks</a>
+          <a target="_blank" class="label label-blue" href="https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/aris.1440380103?casa_token=CU8uzbVcS_UAAAAA%3A4A0iPgkv18wb89P8RRjqdt9lnngvw7JmyN1CA0pJr7SLdNOG6bZL5CL4lEAdASVFjGVf-rMhWiKx6tc">R</a>
+        <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550134">D</a>
         </span>
       </td>
       <td>February 05<br />
