@@ -36,7 +36,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       </td>
       <td>January 29<br />
         <span class="fs-3">
-          <a target="_blank" class="btn" href="">Introduction</a><br />
+          <a target="_blank" class="btn btn-purple" href="lectures/w02-methods-intro.pdf">Introduction</a><br />
           <a target="_blank" class="label label-blue" href="https://doi.org/10.1016/B978-0-12-805390-4.00001-7">R</a>
         </span>
       </td>
@@ -58,7 +58,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747906">Assignment 0</a></span>
       </td>
       <td>February 03<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Topic selection</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747930#">Topic selection</a></span>
       </td>
     </tr>
     <tr>
