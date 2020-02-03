@@ -46,7 +46,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     <tr>
       <td>February 03<br />
         <span class="fs-3">
-          <a target="_blank" href="lectures/w03-seminar-frameworks.pdf">Research Frameworks</a><br />
+          <a target="_blank" class="btn btn-purple" href="lectures/w03-seminar-frameworks.pdf">Research Frameworks</a><br />
           <a target="_blank" class="label label-blue" href="https://drive.google.com/file/d/1L3WTK7fI508dZr-kDn6O7IhYpybxvVAg/view?usp=sharing">R</a>
         <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550134">D</a>
         </span>
