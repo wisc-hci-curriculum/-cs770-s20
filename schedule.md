@@ -3,7 +3,7 @@ title: Schedule
 nav_order: 2
 ---
 
-Links to lecture slides, readings, assignments will be posted in the table below by the time of the lecture or the release of the assignment.  <a class="label label-blue" >R</a> links to readings for that day; <a class="label label-yellow">D</a> links to Canvas discussion forum; and <a class="label label-blue" >H</a> links to hands-on-activity handouts.
+Links to lecture slides, readings, assignments will be posted in the table below by the time of the lecture or the release of the assignment.  <a class="label label-blue" >R</a> links to readings for that day; <a class="label label-yellow">D</a> links to Canvas discussion forum; and <a class="label label-red" >H</a> links to hands-on-activity handouts.
 
 <table>
   <thead>
