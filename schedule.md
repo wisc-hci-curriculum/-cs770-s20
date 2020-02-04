@@ -3,7 +3,7 @@ title: Schedule
 nav_order: 2
 ---
 
-Links to lecture slides, readings, assignments will be posted in the table below by the time of the lecture or the release of the assignment.  <a class="label label-blue" >R</a> links to readings for that day; <a class="label label-yellow">D</a> links to Canvas discussion forum.
+Links to lecture slides, readings, assignments will be posted in the table below by the time of the lecture or the release of the assignment.  <a class="label label-blue" >R</a> links to readings for that day; <a class="label label-yellow">D</a> links to Canvas discussion forum; and <a class="label label-blue" >H</a> links to hands-on-activity handouts.
 
 <table>
   <thead>
@@ -38,6 +38,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3">
           <a target="_blank" class="btn btn-purple" href="lectures/w02-methods-intro.pdf">Introduction</a><br />
           <a target="_blank" class="label label-blue" href="https://doi.org/10.1016/B978-0-12-805390-4.00001-7">R</a>
+          <a target="_blank" class="label label-red" href="https://drive.google.com/open?id=10m_P9k0HJVdbApFe6ze90NycnahC1SX7&authuser=bmutlu@wisc.edu&usp=drive_fs">H</a>
         </span>
       </td>
       <td></td>
@@ -55,6 +56,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w03-methods-choosing.pdf">Choosing Methods</a></span><br />
         <a target="_blank" class="label label-blue" href="https://drive.google.com/file/d/1-bxZwbhy0nG3Tgxt1-01Dy7eqagjwqqC/view?usp=sharing">R1</a>
         <a target="_blank" class="label label-blue" href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.469.5594&rep=rep1&type=pdf">R2</a>
+        <a target="_blank" class="label label-red" href="https://drive.google.com/open?id=10X7S_3EzhvMTJtea_2_6J_bbwilUkP1w&authuser=bmutlu@wisc.edu&usp=drive_fs">H</a>
       </td>
       <td>February 07<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747906">Assignment 0</a></span>
