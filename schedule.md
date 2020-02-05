@@ -81,16 +81,21 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>February 17<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Artificial Agents</a></span>
+        <span class="fs-3"><a target="_blank" class="btn" href="">Artificial Agents</a></span><br />
+        <a target="_blank" class="label label-blue" href="http://www.aistudy.co.kr/paper/aaai_journal/AIMag22-04-007.pdf">R1</a>
+        <a target="_blank" class="label label-blue" href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.87.2456&rep=rep1&type=pdf">R2</a>
+        <a target="_blank" class="label label-blue" href="https://www.aaai.org/ojs/index.php/aimagazine/article/view/2376/2250">R3</a>        
       </td>
       <td>February 19<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Qualitative analysis</a></span>
+        <span class="fs-3"><a target="_blank" class="btn" href="">Qualitative analysis</a></span><br />
+        <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B978012805390400011X">R1</a>
+        <a target="_blank" class="label label-blue" href="https://www.sagepub.com/sites/default/files/upm-binaries/24614_01_Saldana_Ch_01.pdf">R2</a>
       </td>
       <td>February 21<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747907">Assignment 1.A</a></span>
       </td>
       <td>February 17<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Literature survey</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747927">Literature survey</a></span>
       </td>
     </tr>
     <tr>
