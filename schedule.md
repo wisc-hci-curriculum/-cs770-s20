@@ -71,6 +71,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/192620/files/10973312/download?wrap=1">R1</a>
         <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/192620/files/10973284/download?wrap=1">R2</a>
         <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/192620/files/10973285/download?wrap=1">R3</a>
+        <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550133">D</a>
       </td>
       <td>February 12<br />
         <span class="fs-3"><a target="_blank" class="btn" href="">Ethnography</a></span><br />
@@ -84,7 +85,8 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3"><a target="_blank" class="btn" href="">Artificial Agents</a></span><br />
         <a target="_blank" class="label label-blue" href="http://www.aistudy.co.kr/paper/aaai_journal/AIMag22-04-007.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.87.2456&rep=rep1&type=pdf">R2</a>
-        <a target="_blank" class="label label-blue" href="https://www.aaai.org/ojs/index.php/aimagazine/article/view/2376/2250">R3</a>        
+        <a target="_blank" class="label label-blue" href="https://www.aaai.org/ojs/index.php/aimagazine/article/view/2376/2250">R3</a>
+        <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550132">D</a>
       </td>
       <td>February 19<br />
         <span class="fs-3"><a target="_blank" class="btn" href="">Qualitative analysis</a></span><br />
