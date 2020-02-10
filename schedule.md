@@ -67,7 +67,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>February 10<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">User Modeling</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w04-seminar-modeling.pdf">User Modeling</a></span><br />
         <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/192620/files/10973312/download?wrap=1">R1</a>
         <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/192620/files/10973284/download?wrap=1">R2</a>
         <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/192620/files/10973285/download?wrap=1">R3</a>
