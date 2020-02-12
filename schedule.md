@@ -74,7 +74,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550133">D</a>
       </td>
       <td>February 12<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Ethnography</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w04-methods-ethnography.pdf">Ethnography</a></span><br />
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000091">R</a>
       </td>
       <td></td>
