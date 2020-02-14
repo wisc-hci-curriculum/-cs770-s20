@@ -93,9 +93,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B978012805390400011X">R1</a>
         <a target="_blank" class="label label-blue" href="https://www.sagepub.com/sites/default/files/upm-binaries/24614_01_Saldana_Ch_01.pdf">R2</a>
       </td>
-      <td>February 21<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747907">Assignment 1.A</a></span>
-      </td>
+      <td></td>
       <td>February 17<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747927">Literature survey</a></span>
       </td>
@@ -108,7 +106,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3"><a target="_blank" class="btn" href="">Experimental design I</a></span>
       </td>
       <td>February 28<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747947">Assignment 1.B</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747907">Assignment 1.A</a></span>
       </td>
       <td></td>
     </tr>
@@ -119,7 +117,9 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>March 04<br />
         <span class="fs-3"><a target="_blank" class="btn" href="">Experimental design II</a></span>
       </td>
-      <td></td>
+      <td>March 06<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747947">Assignment 1.B</a></span>
+      </td>
       <td></td>
     </tr>
     <tr>
@@ -129,9 +129,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>March 11<br />
         <span class="fs-3"><a target="_blank" class="btn" href="">Measurement I</a></span>
       </td>
-      <td>March 13<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Assignment 2.A</a></span>
-      </td>
+      <td></td>
       <td>March 09<br />
         <span class="fs-3"><a target="_blank" class="btn" href="">Method</a></span>
       </td>
@@ -149,7 +147,9 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>March 25<br />
         <span class="fs-3"><a target="_blank" class="btn" href="">Measurement II</a></span>
       </td>
-      <td></td>
+      <td>March 27<br />
+        <span class="fs-3"><a target="_blank" class="btn" href="">Assignment 2.A</a></span>
+      </td>
       <td></td>
     </tr>
     <tr>
@@ -169,9 +169,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>April 08<br />
         <span class="fs-3"><a target="_blank" class="btn" href="">Statistics I</a></span>
       </td>
-      <td>April 10<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Assignment 2.B</a></span>
-      </td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -181,7 +179,9 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>April 15<br />
         <span class="fs-3"><a target="_blank" class="btn" href="">Statistics II</a></span>
       </td>
-      <td></td>
+      <td>April 17<br />
+        <span class="fs-3"><a target="_blank" class="btn" href="">Assignment 2.B</a></span>
+      </td>
       <td>April 13<br />
         <span class="fs-3"><a target="_blank" class="btn" href="">Data collection</a></span>
       </td>
@@ -193,9 +193,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>April 22<br />
         <span class="fs-3"><a target="_blank" class="btn" href="">Statistics III</a></span>
       </td>
-      <td>April 24<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Assignment 2.C</a></span>
-      </td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -205,7 +203,9 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>April 29<br />
         <span class="fs-3"><a target="_blank" class="btn" href="">Reporting</a></span>
       </td>
-      <td></td>
+      <td>May 1<br />
+        <span class="fs-3"><a target="_blank" class="btn" href="">Assignment 2.C</a></span>
+      </td>
       <td>April 27<br />
         <span class="fs-3"><a target="_blank" class="btn" href="">Analysis/Results</a></span>
       </td>
