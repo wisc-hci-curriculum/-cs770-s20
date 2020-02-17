@@ -82,7 +82,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>February 17<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Artificial Agents</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w05-seminar-agents.pdf">Artificial Agents</a></span><br />
         <a target="_blank" class="label label-blue" href="http://www.aistudy.co.kr/paper/aaai_journal/AIMag22-04-007.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.87.2456&rep=rep1&type=pdf">R2</a>
         <a target="_blank" class="label label-blue" href="https://www.aaai.org/ojs/index.php/aimagazine/article/view/2376/2250">R3</a>
