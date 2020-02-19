@@ -89,7 +89,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550132">D</a>
       </td>
       <td>February 19<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Qualitative analysis</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w05-methods-qualitative-analysis.pdf">Qualitative analysis</a></span><br />
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B978012805390400011X">R1</a>
         <a target="_blank" class="label label-blue" href="https://www.sagepub.com/sites/default/files/upm-binaries/24614_01_Saldana_Ch_01.pdf">R2</a>
       </td>
