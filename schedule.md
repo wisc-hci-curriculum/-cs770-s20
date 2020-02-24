@@ -100,7 +100,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>February 24<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">CMC</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w06-seminar-cmc.pdf">CMC</a><br />
         <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/192620/files/10973286/download?wrap=1">R1</a>
         <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/192620/files/10973287/download?wrap=1">R2</a>
         <a target="_blank" class="label label-blue" href="http://dgergle.soc.northwestern.edu/resources/BosOlsonGergleOlsonWright_RichMediaTrust_CHI02.pdf">R3</a>
