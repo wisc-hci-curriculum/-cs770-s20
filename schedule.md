@@ -75,7 +75,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       </td>
       <td>February 12<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w04-methods-ethnography.pdf">Ethnography</a></span><br />
-        <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000091">R</a>
+        <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000091">R</a><a target="_blank" class="label label-red" href="https://drive.google.com/file/d/11ckaFpuN0XsFPkC356KcZxGEXkSBQvnc/view?usp=sharing">H</a>
       </td>
       <td></td>
       <td></td>
@@ -91,7 +91,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>February 19<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w05-methods-qualitative-analysis.pdf">Qualitative analysis</a></span><br />
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B978012805390400011X">R1</a>
-        <a target="_blank" class="label label-blue" href="https://www.sagepub.com/sites/default/files/upm-binaries/24614_01_Saldana_Ch_01.pdf">R2</a>
+        <a target="_blank" class="label label-blue" href="https://www.sagepub.com/sites/default/files/upm-binaries/24614_01_Saldana_Ch_01.pdf">R2</a><a target="_blank" class="label label-red" href="https://drive.google.com/file/d/12levm0_CCU8rRgHPlgj74x2zKbkdrS7j/view?usp=sharing">H</a>
       </td>
       <td></td>
       <td>February 17<br />
@@ -109,7 +109,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>February 26<br />
         <span class="fs-3"><a target="_blank" class="btn" href="">Experimental design I</a><br />
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000029">R1</a>
-        <a target="_blank" class="label label-blue" href="https://link-springer-com.ezproxy.library.wisc.edu/content/pdf/10.1007%2F978-1-4939-0378-8_9.pdf">R2</a></span>
+        <a target="_blank" class="label label-blue" href="https://link-springer-com.ezproxy.library.wisc.edu/content/pdf/10.1007%2F978-1-4939-0378-8_9.pdf">R2</a><a target="_blank" class="label label-red" href="https://canvas.wisc.edu/courses/192620/files/10973311/download?wrap=1">H</a></span>
       </td>
       <td>February 28<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747907">Assignment 1.A</a></span>
