@@ -121,7 +121,8 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3"><a target="_blank" class="btn" href="">CSCW</a></span>
       </td>
       <td>March 04<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Experimental design II</a></span>
+        <span class="fs-3"><a target="_blank" class="btn" href="">Experimental design II</a><br />
+        <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000030">R</a></span>
       </td>
       <td>March 06<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747947">Assignment 1.B</a></span>
