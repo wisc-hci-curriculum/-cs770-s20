@@ -118,7 +118,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>March 02<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">CSCW</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w07-seminar-cscw.pdf">CSCW</a><br />
         <a target="_blank" class="label label-blue" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/IEEEComputer1994.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/groupware-and-social-dynamics.pdf">R2</a>
         <a target="_blank" class="label label-blue" href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.92.2557&rep=rep1&type=pdf">R3</a>
