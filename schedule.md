@@ -142,7 +142,9 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550128">D</a></span>
       </td>
       <td>March 11<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Measurement I</a></span>
+        <span class="fs-3"><a target="_blank" class="btn" href="">Measurement I</a><br />
+        <a target="_blank" class="label label-blue" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1204543&ppg=82">R</a>
+        </span>
       </td>
       <td></td>
       <td>March 09<br />
