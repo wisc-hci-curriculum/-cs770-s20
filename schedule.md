@@ -125,7 +125,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550130">D</a></span>
       </td>
       <td>March 04<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="https://canvas.wisc.edu/courses/192620/assignments/747923">Experimental design II</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w07-methods-experimental-2.pdf">Experimental design II</a><br />
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000030">R</a></span>
       </td>
       <td>March 06<br />
