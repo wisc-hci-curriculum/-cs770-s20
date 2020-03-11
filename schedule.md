@@ -143,8 +143,8 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550128">D</a></span>
       </td>
       <td>March 11<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Measurement I</a><br />
-        <a target="_blank" class="label label-blue" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1204543&ppg=82">R</a>
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w08-methods-measurement-1.pdf">Measurement I</a><br />
+        <a target="_blank" class="label label-blue" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1204543&ppg=82">R</a><a target="_blank" class="label label-red" href="https://drive.google.com/file/d/1BEz_ufPly-oYO8ytk7nLOAowdmw2jDhe/view?usp=sharing">H</a>
         </span>
       </td>
       <td></td>
