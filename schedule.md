@@ -3,7 +3,7 @@ title: Schedule
 nav_order: 2
 ---
 
-Links to lecture slides, readings, assignments will be posted in the table below by the time of the lecture or the release of the assignment.  <a class="label label-blue" >R</a> links to readings for that day; <a class="label label-yellow">D</a> links to Canvas discussion forum; and <a class="label label-red" >H</a> links to hands-on-activity handouts.
+Links to lecture slides, readings, assignments will be posted in the table below by the time of the lecture or the release of the assignment.  <a class="label label-blue" >R</a> links to readings for that day, <a class="label label-green" >O</a> indicating an optional reading; <a class="label label-yellow">D</a> links to Canvas discussion forum; and <a class="label label-red" >H</a> links to hands-on-activity handouts.
 
 <table>
   <thead>
@@ -178,7 +178,11 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>March 30<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Mobile/Tangible</a></span>
+        <span class="fs-3"><a target="_blank" class="btn" href="">Mobile/Tangible</a><br />
+        <a target="_blank" class="label label-blue" href="https://www.pervasive.jku.at/download/weiser-orig.pdf">R1</a>
+        <a target="_blank" class="label label-blue" href="http://ecl.cc.gatech.edu/sites/default/files/publications/J.8-Abowd-HumanComputerInteraction-2000.pdf">R2</a>
+        <a target="_blank" class="label label-blue" href="http://alumni.media.mit.edu/~ullmer/papers/tangible-bits.pdf">R3</a>
+        <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550127">D</a></span>
       </td>
       <td>April 01<br />
         <span class="fs-3"><a target="_blank" class="btn" href="">Measurement III</a></span>
@@ -188,7 +192,9 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>April 06<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Physiological Comp.</a></span>
+      <span class="fs-3"><a target="_blank" class="btn" href="">Privacy</a>><br />
+        <a target="_blank" class="label label-blue" href="http://www.cs.cmu.edu/afs/cs/Web/People/jasonh/publications/fnt-end-user-privacy-in-human-computer-interaction-final.pdf">R</a> <em>(Chapters 1 & 3)</em>
+        <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550127">D</a></span>
       </td>
       <td>April 08<br />
         <span class="fs-3"><a target="_blank" class="btn" href="">Statistics I</a></span>
@@ -198,7 +204,12 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>April 13<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Privacy</a></span>
+        <span class="fs-3"><a target="_blank" class="btn" href="">Physiological Comp.</a><br />
+        <a target="_blank" class="label label-blue" href="http://physiologicalcomputing.org/wp-content/uploads/2015/03/fundamentals1.pdf">R1</a>
+        <a target="_blank" class="label label-blue" href="http://usd-apps.usd.edu/coglab/schieber/hedonomics/pdf/Jeon_Ch9.pdf">R2</a>
+        <a target="_blank" class="label label-blue" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/Brain-Computer-Interfacing-for-Intelligent-Systems.pdf">R3</a>
+        <a target="_blank" class="label label-blue" href="http://pages.cs.wisc.edu/~bilge/pubs/2012/CHI12-Szafir.pdf">O</a>
+        <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550122">D</a></span>
       </td>
       <td>April 15<br />
         <span class="fs-3"><a target="_blank" class="btn" href="">Statistics II</a></span>
@@ -212,7 +223,10 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>April 20<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Authoring Tools</a></span>
+        <span class="fs-3"><a target="_blank" class="btn" href="">Authoring Tools</a><br />
+        <a target="_blank" class="label label-blue" href="https://faculty.washington.edu/ajko/papers/Ko2011EndUserSoftwareEngineering.pdf">R1</a>
+        <a target="_blank" class="label label-blue" href="http://pages.cs.wisc.edu/~aws/papers/uist19.pdf">R2</a>
+        <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550125">D</a></span>
       </td>
       <td>April 22<br />
         <span class="fs-3"><a target="_blank" class="btn" href="">Statistics III</a></span>
@@ -222,7 +236,13 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>April 27<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Accessibility</a></span>
+        <span class="fs-3"><a target="_blank" class="btn" href="">Accessibility</a><br />
+        <a target="_blank" class="label label-blue" href="http://faculty.washington.edu/jtenenbg/publications/blindPersonInteraction-cacm2009.pdf">R1</a>
+        <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/192620/files/10973320/download?wrap=1">R2</a>
+        <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/pdf/10.1145/1866029.1866080?download=true">R3</a>
+        <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/pdf/10.1145/2700648.2809853?download=true">O1</a>
+          <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/pdf/10.1145/2700648.2809865?download=true">O2</a>
+        <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550126">D</a></span>
       </td>
       <td>April 29<br />
         <span class="fs-3"><a target="_blank" class="btn" href="">Reporting</a></span>
