@@ -171,9 +171,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-blue" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1204543&ppg=140">R</a>
         </span>
       </td>
-      <td>March 27<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Assignment 2.A</a></span>
-      </td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -187,12 +185,14 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>April 01<br />
         <span class="fs-3"><a target="_blank" class="btn" href="">Measurement III</a></span>
       </td>
-      <td></td>
+      <td>April 3<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747908">Assignment 2.A</a></span>
+      </td>
       <td></td>
     </tr>
     <tr>
       <td>April 06<br />
-      <span class="fs-3"><a target="_blank" class="btn" href="">Privacy</a>><br />
+      <span class="fs-3"><a target="_blank" class="btn" href="">Privacy</a><br />
         <a target="_blank" class="label label-blue" href="http://www.cs.cmu.edu/afs/cs/Web/People/jasonh/publications/fnt-end-user-privacy-in-human-computer-interaction-final.pdf">R</a> <em>(Chapters 1 & 3)</em>
         <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550127">D</a></span>
       </td>
@@ -215,7 +215,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3"><a target="_blank" class="btn" href="">Statistics II</a></span>
       </td>
       <td>April 17<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Assignment 2.B</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747909">Assignment 2.B</a></span>
       </td>
       <td>April 13<br />
         <span class="fs-3"><a target="_blank" class="btn" href="">Data collection</a></span>
@@ -248,7 +248,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3"><a target="_blank" class="btn" href="">Reporting</a></span>
       </td>
       <td>May 1<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Assignment 2.C</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747910">Assignment 2.C</a></span>
       </td>
       <td>April 27<br />
         <span class="fs-3"><a target="_blank" class="btn" href="">Analysis/Results</a></span>
