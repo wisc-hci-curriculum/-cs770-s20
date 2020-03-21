@@ -162,7 +162,10 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-blue" href="http://www.uqac.ca/deptdse/3ped124/LCDPAPER/LEARNIN.PDF">R1</a>
         <a target="_blank" class="label label-blue" href="http://www.designbasedresearch.org/reppubs/DBRC2003.pdf">R2</a>
         <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/192620/files/10973282/download?wrap=1">R3</a>
-        <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550123">D</a></span>
+        <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550123">D</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-red" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a>
+          <a target="_blank" class="btn" href="">Recording</a>
+        </span>
       </td>
       <td>March 25<br />
         <span class="fs-3"><a target="_blank" class="btn" href="">Measurement II</a><br />
