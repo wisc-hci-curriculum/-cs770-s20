@@ -165,9 +165,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/192620/files/10973282/download?wrap=1">R3</a>
         <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550123">D</a><br />
         <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a>
-          <a target="_blank" class="btn" href="">Recording</a>
-          
-        </span>
+          <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/537c39f937014977a085d6d66cb6e4d5">Recording</a></span>
       </td>
       <td>March 25<br />
         <span class="fs-3"><a target="_blank" class="btn" href="">Measurement II</a><br />
