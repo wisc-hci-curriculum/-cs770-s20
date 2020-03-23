@@ -158,13 +158,15 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>March 23<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Educational Technology</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w09-seminar-educational-technology.pdf">Educational Technology</a><br />
+         <a target="_blank" class="btn btn-purple" href="lectures/w09-extra-online-studies.pdf">Online Studies</a><br />
         <a target="_blank" class="label label-blue" href="http://www.uqac.ca/deptdse/3ped124/LCDPAPER/LEARNIN.PDF">R1</a>
         <a target="_blank" class="label label-blue" href="http://www.designbasedresearch.org/reppubs/DBRC2003.pdf">R2</a>
         <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/192620/files/10973282/download?wrap=1">R3</a>
         <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550123">D</a><br />
         <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a>
           <a target="_blank" class="btn" href="">Recording</a>
+          
         </span>
       </td>
       <td>March 25<br />
