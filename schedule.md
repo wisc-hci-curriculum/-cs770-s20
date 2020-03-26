@@ -171,7 +171,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w09-method-subjective.pdf">Measurement II</a><br />
         <a target="_blank" class="label label-blue" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1204543&ppg=140">R</a><br />
         <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a>
-          <a target="_blank" class="btn" href="">Recording</a>
+          <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/dd3c756ad25949f2b8d5496bf09a80db">Recording</a>
         </span>
       </td>
       <td></td>
