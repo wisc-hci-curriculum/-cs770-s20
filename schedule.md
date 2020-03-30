@@ -181,11 +181,13 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>March 30<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Mobile/Tangible</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w10-seminar-mobile-tangible.pdf">Mobile/Tangible</a><br />
         <a target="_blank" class="label label-blue" href="https://www.pervasive.jku.at/download/weiser-orig.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="http://ecl.cc.gatech.edu/sites/default/files/publications/J.8-Abowd-HumanComputerInteraction-2000.pdf">R2</a>
         <a target="_blank" class="label label-blue" href="http://alumni.media.mit.edu/~ullmer/papers/tangible-bits.pdf">R3</a>
-        <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550127">D</a></span>
+        <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550127">D</a><br />
+        <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a>
+          <a target="_blank" class="btn" href="">Recording</a></span>
       </td>
       <td>April 01<br />
         <span class="fs-3"><a target="_blank" class="btn" href="">Measurement III</a></span>
