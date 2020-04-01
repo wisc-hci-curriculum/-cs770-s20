@@ -195,7 +195,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000133">R2</a>
         <a target="_blank" class="label label-red" href="https://docs.google.com/document/d/1pExeEctiQ2efhvYbA7oDWQVTPzfp8s2nvcHDescstOw/edit?usp=sharing">H</a><br />
         <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a>
-          <a target="_blank" class="btn" href="">Recording</a></span>
+          <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/90f3133f098644008bf16dfacad031fc">Recording</a></span>
       </td>
       <td>April 3<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747908">Assignment 2.A</a></span>
