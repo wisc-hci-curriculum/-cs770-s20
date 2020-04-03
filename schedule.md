@@ -206,10 +206,16 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>April 06<br />
       <span class="fs-3"><a target="_blank" class="btn" href="">Privacy</a><br />
         <a target="_blank" class="label label-blue" href="http://www.cs.cmu.edu/afs/cs/Web/People/jasonh/publications/fnt-end-user-privacy-in-human-computer-interaction-final.pdf">R</a> <em>(Chapters 1 & 3)</em>
-        <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550127">D</a></span>
+        <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550127">D</a><br />
+        <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a>
+          <a target="_blank" class="btn" href="">Recording</a></span>
       </td>
       <td>April 08<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Statistics I</a></span>
+        <span class="fs-3"><a target="_blank" class="btn" href="">Statistics I</a><br />
+        <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000042">R1</a> <em>(Pages 71-80)</em>
+        <a target="_blank" class="label label-blue" https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1110719&ppg=210">R2</a><em>Optional</em><br />
+        <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a>
+          <a target="_blank" class="btn" href="">Recording</a></span>
       </td>
       <td></td>
       <td></td>
@@ -221,10 +227,16 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-blue" href="http://usd-apps.usd.edu/coglab/schieber/hedonomics/pdf/Jeon_Ch9.pdf">R2</a>
         <a target="_blank" class="label label-blue" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/Brain-Computer-Interfacing-for-Intelligent-Systems.pdf">R3</a>
         <a target="_blank" class="label label-blue" href="http://pages.cs.wisc.edu/~bilge/pubs/2012/CHI12-Szafir.pdf">O</a>
-        <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550122">D</a></span>
+        <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550122">D</a><br />
+        <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a>
+          <a target="_blank" class="btn" href="">Recording</a></span>
       </td>
       <td>April 15<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Statistics II</a></span>
+        <span class="fs-3"><a target="_blank" class="btn" href="">Statistics II</a><br />
+        <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000042">R1</a> <em>(Pages 80-104)</em>
+        <a target="_blank" class="label label-blue" https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1110719&ppg=210">R2</a><em>Optional</em><br />
+        <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a>
+          <a target="_blank" class="btn" href="">Recording</a></span>
       </td>
       <td>April 17<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747909">Assignment 2.B</a></span>
@@ -238,10 +250,16 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <span class="fs-3"><a target="_blank" class="btn" href="">Authoring Tools</a><br />
         <a target="_blank" class="label label-blue" href="https://faculty.washington.edu/ajko/papers/Ko2011EndUserSoftwareEngineering.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="http://pages.cs.wisc.edu/~aws/papers/uist19.pdf">R2</a>
-        <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550125">D</a></span>
+        <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550125">D</a><br />
+        <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a>
+          <a target="_blank" class="btn" href="">Recording</a></span>
       </td>
       <td>April 22<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Statistics III</a></span>
+        <span class="fs-3"><a target="_blank" class="btn" href="">Statistics III</a><br />
+        <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000042">R1</a> <em>(Pages 80-104)</em>
+        <a target="_blank" class="label label-blue" https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1110719&ppg=210">R2</a><em>Optional</em><br />
+        <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a>
+          <a target="_blank" class="btn" href="">Recording</a></span>
       </td>
       <td></td>
       <td></td>
@@ -254,10 +272,14 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/pdf/10.1145/1866029.1866080?download=true">R3</a>
         <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/pdf/10.1145/2700648.2809853?download=true">O1</a>
           <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/pdf/10.1145/2700648.2809865?download=true">O2</a>
-        <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550126">D</a></span>
+        <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550126">D</a><br />
+        <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a>
+          <a target="_blank" class="btn" href="">Recording</a></span>
       </td>
       <td>April 29<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Reporting</a></span>
+        <span class="fs-3"><a target="_blank" class="btn" href="">Reporting</a><br /><em>No reading</em><br />
+        <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a>
+          <a target="_blank" class="btn" href="">Recording</a></span>
       </td>
       <td>May 1<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747910">Assignment 2.C</a></span>
