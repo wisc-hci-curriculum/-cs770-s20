@@ -208,7 +208,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-blue" href="http://www.cs.cmu.edu/afs/cs/Web/People/jasonh/publications/fnt-end-user-privacy-in-human-computer-interaction-final.pdf">R</a> <em>(Chapters 1 & 3)</em>
         <a target="_blank" class="label label-yellow" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550127">D</a><br />
         <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a>
-          <a target="_blank" class="btn" href="">Recording</a></span>
+          <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/ec3d727dce964fa1b09b93260d6b4999">Recording</a></span>
       </td>
       <td>April 08<br />
         <span class="fs-3"><a target="_blank" class="btn" href="">Statistics I</a><br />
@@ -229,7 +229,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-blue" href="http://pages.cs.wisc.edu/~bilge/pubs/2012/CHI12-Szafir.pdf">O</a>
         <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550122">D</a><br />
         <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a>
-          <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/ec3d727dce964fa1b09b93260d6b4999">Recording</a></span>
+          <a target="_blank" class="btn" href="">Recording</a></span>
       </td>
       <td>April 15<br />
         <span class="fs-3"><a target="_blank" class="btn" href="">Statistics II</a><br />
