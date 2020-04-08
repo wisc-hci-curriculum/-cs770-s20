@@ -241,8 +241,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>April 17<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747909">Assignment 2.B</a></span>
       </td>
-      <td>April 13<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Data collection</a></span>
+      <td>
       </td>
     </tr>
     <tr>
@@ -262,7 +261,8 @@ Links to lecture slides, readings, assignments will be posted in the table below
           <a target="_blank" class="btn" href="">Recording</a></span>
       </td>
       <td></td>
-      <td></td>
+      <td>April 20<br />
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/809057">Data collection</a></span></td>
     </tr>
     <tr>
       <td>April 27<br />
