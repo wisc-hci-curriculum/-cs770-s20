@@ -211,9 +211,9 @@ Links to lecture slides, readings, assignments will be posted in the table below
           <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/ec3d727dce964fa1b09b93260d6b4999">Recording</a></span>
       </td>
       <td>April 08<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Statistics I</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w11-methods-statistics-1.pdf">Statistics I</a><br />
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000042">R1</a> <em>(Pages 71-80)</em>
-        <a target="_blank" class="label label-blue" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1110719&ppg=210">R2</a><em>Optional</em><br />
+        <a target="_blank" class="label label-blue" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1110719&ppg=210">R2</a><em>Optional</em><a target="_blank" class="label label-red" href="https://docs.google.com/document/d/1RiSo2nXzAV_v5xE0INPRULC4l5DgKukdBsmErdbCQhQ/edit?usp=sharing">H</a><br />
         <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a>
           <a target="_blank" class="btn" href="">Recording</a></span>
       </td>
