@@ -232,7 +232,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
           <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/e8be0327965a4aa9be7a4fae9f2c16d3">Recording</a></span>
       </td>
       <td>April 15<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Statistics II</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w12-methods-statistics-2.pdf">Statistics II</a><br />
         <a target="_blank" class="label label-blue" href="https://www-sciencedirect-com.ezproxy.library.wisc.edu/science/article/pii/B9780128053904000042">R1</a> <em>(Pages 80-104)</em>
         <a target="_blank" class="label label-blue" href="https://ebookcentral.proquest.com/lib/wisc/reader.action?docID=1110719&ppg=210">R2</a><em>Optional</em><br />
         <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a>
