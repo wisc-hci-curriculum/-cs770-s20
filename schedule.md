@@ -251,7 +251,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
         <a target="_blank" class="label label-blue" href="http://pages.cs.wisc.edu/~aws/papers/uist19.pdf">R2</a>
         <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550125">D</a><br />
         <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a>
-          <a target="_blank" class="btn" href="">Recording</a></span>
+          <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/d2e3137cc77c4899998a865eb316f63c">Recording</a></span>
       </td>
       <td>April 22<br />
         <span class="fs-3"><a target="_blank" class="btn" href="">Statistics III</a><br />
