@@ -246,7 +246,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>April 20<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Authoring Tools</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w13-seminar-authoring-tools.pdf">Authoring Tools</a><br />
         <a target="_blank" class="label label-blue" href="https://faculty.washington.edu/ajko/papers/Ko2011EndUserSoftwareEngineering.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="http://pages.cs.wisc.edu/~aws/papers/uist19.pdf">R2</a>
         <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550125">D</a><br />
