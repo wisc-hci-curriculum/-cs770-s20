@@ -282,11 +282,10 @@ Links to lecture slides, readings, assignments will be posted in the table below
           <a target="_blank" class="btn" href="">Recording</a></span>
       </td>
       <td>May 1<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747910">Assignment 2.C</a></span>
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747910">Assignment 2.C</a></span><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/819945">Analysis/Results</a></span>
       </td>
-      <td>April 27<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Analysis/Results</a></span>
-      </td>
+      <td></td>
     </tr>
     <tr>
       <td></td>
