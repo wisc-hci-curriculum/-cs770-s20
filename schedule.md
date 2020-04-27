@@ -291,7 +291,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td></td>
       <td></td>
       <td></td>
-      <td>May 04<br />
+      <td>May 06<br />
         <span class="fs-3"><a class="btn" href="">Final paper</a></span>
       </td>
     </tr>
