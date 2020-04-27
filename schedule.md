@@ -266,7 +266,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
     </tr>
     <tr>
       <td>April 27<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w14-seminar-accessibility">Accessibility</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w14-seminar-accessibility.pdf">Accessibility</a><br />
         <a target="_blank" class="label label-blue" href="http://faculty.washington.edu/jtenenbg/publications/blindPersonInteraction-cacm2009.pdf">R1</a>
         <a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/192620/files/10973320/download?wrap=1">R2</a>
         <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/pdf/10.1145/1866029.1866080?download=true">R3</a>
