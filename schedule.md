@@ -274,10 +274,10 @@ Links to lecture slides, readings, assignments will be posted in the table below
           <a target="_blank" class="label label-blue" href="https://dl.acm.org/doi/pdf/10.1145/2700648.2809865?download=true">O2</a>
         <a target="_blank" class="label label-green" href="https://canvas.wisc.edu/courses/192620/discussion_topics/550126">D</a><br />
         <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a>
-          <a target="_blank" class="btn" href="">Recording</a></span>
+          <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/50b2397f45cc43f6b6e1199d20329dcd">Recording</a></span>
       </td>
       <td>April 29<br />
-        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w14-methods-reporting.pdf">Reporting</a><br /><em>No reading</em><a target="_blank" class="label label-red" href="https://docs.google.com/document/d/1tw_Ryv5sbk7gjFmo82KlAp28x-F2oWmZYsm3KDEQs3E/edit?usp=sharing">H</a><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w14-methods-reporting.pdf">Reporting</a><br /><a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/192620/assignments/825579">R</a><a target="_blank" class="label label-red" href="https://docs.google.com/document/d/1tw_Ryv5sbk7gjFmo82KlAp28x-F2oWmZYsm3KDEQs3E/edit?usp=sharing">H</a><br />
         <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a>
           <a target="_blank" class="btn" href="">Recording</a></span>
       </td>
