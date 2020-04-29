@@ -277,7 +277,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
           <a target="_blank" class="btn" href="">Recording</a></span>
       </td>
       <td>April 29<br />
-        <span class="fs-3"><a target="_blank" class="btn" href="">Reporting</a><br /><em>No reading</em><br />
+        <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w14-methods-reporting.pdf">Reporting</a><br /><em>No reading</em><a target="_blank" class="label label-red" href="https://docs.google.com/document/d/1tw_Ryv5sbk7gjFmo82KlAp28x-F2oWmZYsm3KDEQs3E/edit?usp=sharing">H</a><br />
         <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a>
           <a target="_blank" class="btn" href="">Recording</a></span>
       </td>
