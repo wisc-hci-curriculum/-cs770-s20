@@ -279,7 +279,7 @@ Links to lecture slides, readings, assignments will be posted in the table below
       <td>April 29<br />
         <span class="fs-3"><a target="_blank" class="btn btn-purple" href="lectures/w14-methods-reporting.pdf">Reporting</a><br /><a target="_blank" class="label label-blue" href="https://canvas.wisc.edu/courses/192620/assignments/825579">R</a><a target="_blank" class="label label-red" href="https://docs.google.com/document/d/1tw_Ryv5sbk7gjFmo82KlAp28x-F2oWmZYsm3KDEQs3E/edit?usp=sharing">H</a><br />
         <a target="_blank" class="btn btn-green" href="https://us.bbcollab.com/guest/f446d99a72864bb89ed1eda35ed902f6">Join</a>
-          <a target="_blank" class="btn" href="">Recording</a></span>
+          <a target="_blank" class="btn btn-green" href="https://us-lti.bbcollab.com/recording/bbe401da7caf4deb9f1f0c2e765823e6">Recording</a></span>
       </td>
       <td>May 1<br />
         <span class="fs-3"><a target="_blank" class="btn btn-blue" href="https://canvas.wisc.edu/courses/192620/assignments/747910">Assignment 2.C</a></span><br />
